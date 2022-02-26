@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief relation containing an abreviation of the arguments urged by the late Protector against the government of this nation by a King or a single person. To convince men of the danger and inconveniency thereof. Urged by him to many of the Army, at St. Albans, Windsore, at White-hall (a little before the King was beheaded) and at several other places. Published for the good and information of Parliament, Army, and people.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77455</idno>
+            <idno type="STC">Wing B4622A</idno>
+            <idno type="STC">Thomason E965_4</idno>
+            <idno type="STC">ESTC R207666</idno>
+            <idno type="EEBO-CITATION">99866704</idno>
+            <idno type="PROQUEST">99866704</idno>
+            <idno type="VID">168536</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77455)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168536)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 144:E965[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief relation containing an abreviation of the arguments urged by the late Protector against the government of this nation by a King or a single person. To convince men of the danger and inconveniency thereof. Urged by him to many of the Army, at St. Albans, Windsore, at White-hall (a little before the King was beheaded) and at several other places. Published for the good and information of Parliament, Army, and people.</title>
+                  <author>Cromwell, Oliver, 1599-1658, attributed name.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Printed, January, 1658 [i.e. 1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and actual date of publication from Wing.</note>
+                  <note>Sometimes attributed to Oliver Cromwell.</note>
+                  <note>Annotation on Thomason copy: "Jan: 28. Jan 28.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Kings and rulers --  Duties --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168536:1" rendition="simple:additions"/>
+            <p>A Brief RELATION Containing an <hi>Abreviation</hi> of THE ARGVMENTS <hi>Urged by the late</hi> PROTECTOR againſt the Government of this NATION by a KING or a Single Perſon.</p>
+            <p>To Convince men of the danger and inconveniency thereof.</p>
+            <p>Urged by him to many of the Army, at St. <hi>Al<g ref="char:EOLhyphen"/>bans, Windſore,</hi> at <hi>White-hall</hi> (a little before the King was beheaded) and at ſeveral other places.</p>
+            <p>Publiſhed for the good and information of Parlia<g ref="char:EOLhyphen"/>ment, Army and People.</p>
+            <p>Printed, January, 1658.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:168536:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>OF what opinion or judge<g ref="char:EOLhyphen"/>ment ſo ever you are, let not your headineſſe or prejudi<g ref="char:EOLhyphen"/>cate opinion, hinder you from conſidering what is here declar<g ref="char:EOLhyphen"/>ed (the ſubſtance and truth whereof is well known to ſome, in City, Army, and Countrey) for thine and thy Poſterities good, welfare and preſervation. But beg of God wiſdome, and he will ſhew thee the myſtery of Iniquity, when it is going to be ſettled by a law, and will coſt thee hot ſervice, and ſorrow of heart, to redeem thy ſelf and Countrey, and it may be when thou wouldſt redeem it, it wil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be too hard for thee.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168536:2"/>
+            <head>A brief Relation, containing an Abreviation of the Ar<g ref="char:EOLhyphen"/>guments, urged by the late Protector, againſt the Go<g ref="char:EOLhyphen"/>vernment of this Nation by a King or Single Perſon.</head>
+            <argument>
+               <p>The Conſideration of the Obſtruction that probably this true Relation will meet with all from fawning Courtiers and Deceived <hi>Engliſh<g ref="char:EOLhyphen"/>men,</hi> had almoſt prevented its proſecution; but remembring that nought but the awaking of my dear ſlumbering Country-men from that drouſey ſtate, that for ſome dayes they have ſeem'd to lye in, which if perſiſted in, will give too great an opportunity to the common Ene<g ref="char:EOLhyphen"/>my to effect his will on us all; I was encouraged to proceed, truſting in the Lord, who has and will deliver the Innocent from all the Ca<g ref="char:EOLhyphen"/>lumnious aſperſions of Court Paraſites. And therefore without any other Apologie, I ſhall proceed to the Arguments themſelves, which I ſhall deliver if not in the abſolute terms, yet in the genuine ſenſe.</p>
+            </argument>
+            <p>IMprimis, Becauſe its poſſible, yea and more than ordinarily probable, that a ſingle perſon in a ſhort time will work over his Council to his own will, though illegall; either in con<g ref="char:EOLhyphen"/>ferring places of Honour and profit on them and their friends, or elſe in terrifying them by threats.</p>
+            <p n="2">2 Becauſe that a ſingle perſon being raiſed to ſuch a ſtate, is ſubject to wax wanton and ſo forget, or rather neglect the Commonalty, in providing for a few that will be at his beck, ready to fulfill his pleaſure.</p>
+            <p n="3">3 Becauſe that notwithſtanding for a time, he may carry matters faire, and do ſome good things, <hi>Jehu</hi> like, untill he has gotten an intereſt in the affections of the people, but then forgetting or rather ſlighting what he formerly pretended too, inſtead of countenancing of Juſtice and endeavouring Refor<g ref="char:EOLhyphen"/>mation, its poſſible he may become a favourer of iniquity; nay, ſaid he, a ſettler of a Court, or nurſerie of Whores, Rogues, Bawds and ſuch like perſons, as was evidently ſeen in former dayes at <hi>Whitehall.</hi>
+            </p>
+            <p n="4">4 Becauſe if he cannot accompliſh his deſigne on his Coun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>il, but they diſcover his wickedneſſes and abominations, and oppoſe him (on the behalf of their Countrey) he will be ready <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd apt ſecretly to confederate and make Leagues with other <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rinces, and ſo let in a Forraign enemy, rather than be kept <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ithin the bounds of Law and Juſtice, as we have ſeen in the (late) King, who has brought in <hi>Iriſh</hi> and <hi>Scots,</hi> and alſo ſent
+<pb facs="tcp:168536:3"/> Letters-pattents with letters of Credence to three Forraigne princes,<note place="margin">By <hi>Doctor</hi> Duck, <hi>Major</hi> Boſwell.</note> inviting them to come into <hi>England.</hi>
+            </p>
+            <p n="5">5 Becauſe if the chief Governour, King or Single perſon ſhould become an Ideot, then nought but a continuall charge (upon the good people) could be expected, even robing them of their ſubſtance, untill they are made ſo poore, as not to be able to oppoſe an enemy, which ſo ſoon as underſtood will ſufficiently encourage a Forraign enemy, to make an invaſion upon us.</p>
+            <p n="6">6 Becauſe the Government by one ſingle perſon, is far more chargeable to the people, which in the laying aſide of, the people will ſoon become ſenſible by the leſſening of their charge: for that Revenue (which was to uphold one man, and ſpent in voluptuouſneſſe by him) being brought into the pub<g ref="char:EOLhyphen"/>lique Treaſury, will help to defray much of the charge that otherwiſe muſt fall on the people; nay, ſaid he, whoſoever ſhall go about to ſettle the Government in one perſon, will make themſelves ſo odious, that the people will be ready to knock them ot'head; for when once the Family of the <hi>Stuarts</hi> is gone, if you eſtabliſh one man in the government, in a little time he will become maſter of the Nations Treaſure, and at his firſt coming to the place will moſt eagerly deſire moneys, to buy this bauble for one, and that toy for an other; and after a little while, when he hath taſted the ſweetneſs and deliciouſ<g ref="char:EOLhyphen"/>neſſe thereof, will to maintain the ſame become a purchaſer of lands with the peoples moneys, untill they are become ſo poore that they ſhall be neceſſitated to be his Vaſſals, and conſequent<g ref="char:EOLhyphen"/>ly Slaves for ever; for as the firſt doth, ſo a ſecond, and third will doe after him, untill the good people be utterly undone.</p>
+            <p n="7">7 Becauſe the Government being placed in one perſon, he will be ſubject to judge of himſelf as above law, and without the reach of any law, and by Violence, Tyrannize over whom he pleaſes, commanding one man to priſon, and moneys from another, and poſſibly both money and liberty from a third<g ref="char:punc">▪</g> 
+               <hi>&amp;c.</hi> the refuſing of which arbitrary commands or actions wil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> expoſe men to his mercy, which will be no leſſe than cruelty.</p>
+            <p n="8">8 Becauſe that the abominations and wickedneſs of a Cour<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> has been, and (is juſtly feared) will be, ſo great that both the perſon himſelf and his Council about him will alwaies (f<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to uphold their voluptuouſneſs) be ready to erect new Mo<g ref="char:EOLhyphen"/>nopolies, granting pattents to his Lords, <hi>&amp;c.</hi> to get money
+<pb n="5" facs="tcp:168536:3"/> from the people, for to maintain their pompe and pride, and thereby keep the people in ſuch ſervitude, that in a little time, they will be out of a capacity to gain juſtice on any of the Courtiers: And then the Citizen muſt wait for his money, when his commodi<g ref="char:EOLhyphen"/>ty is ſold, and ſcarce dare ask, and not dare arreſt a Courtier for what he oweth, for fear of his Maſter. And the Country mans hedges will be broken down, his Corn trampled on, and ſpoiled, or eaten by the game, and to complain of which, will be accounted a crime little leſs than Treaſon.</p>
+            <p>Theſe and ſuch <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re the things you muſt expect (ſaid he) if you ſet up one Single perſon, and who would be ſo mad, God having ſo ſignally witneſſed againſt the King and Houſe of Lords: The much blood that hath been ſhed, and the vaſt treaſure expended, and the Controverſie decided on our parts, witneſſeth a<g ref="char:EOLhyphen"/>loud againſt it. Further, ſaid he, I am confident that who ever they be, that ſhall go about to ſettle a Court in this Nation, God will deſtroy and bring to nought, and Confuſion will be to them and their poſterity, and (ſaid he) if ever I ſhould go about any ſuch thing, I deſire God would never bleſſe me nor mine.</p>
+            <p>He farther declared, That God had born wit<g ref="char:EOLhyphen"/>neſſe againſt the Parliament, for that they were inten<g ref="char:EOLhyphen"/>ding to make peace with the late King, and to ſettle him, telling ſome members of the then Parliament and army, when they ſpake of ſettling the Govern<g ref="char:EOLhyphen"/>ment in one ſingle perſon that God would deſtroy them, ſome for going about to ſettle iniquity by a law, and others for not proteſting againſt them, and for not declaring their proteſt to the good people of England: and thus now gentle reader thou haſt the ſubſtance of ſome of the reaſons, urged by the late Lord Protector againſt Monarchy, though ſuddenly he leapt into the ſame himſelf, but now it may be ſaid, theſe reaſons are not ſufficient to prove the ſame, whe<g ref="char:EOLhyphen"/>ther they are or not, I ſhall not now diſpute, but that it may appeare to be probable, I preſent theſe enſuing Queries.</p>
+            <pb n="6" facs="tcp:168536:4"/>
+            <p>Upon the whole I Querie, whether any man upon ra<g ref="char:EOLhyphen"/>tional grounds can expect, that the preſent Protec<g ref="char:EOLhyphen"/>tor or ſingle perſon (pretending to Government,) ſhould be more honeſt righteous and juſt than his deceaſed Father was?</p>
+            <div type="part">
+               <head>But more particularly upon the Arguments.</head>
+               <p n="1">1 I would Querie, firſt, Whether the late Protector did not worke over his Council to ſome things il<g ref="char:EOLhyphen"/>legal.</p>
+               <p n="2">2 Whether Kings formerly and the Protector late<g ref="char:EOLhyphen"/>ly did not wax wonton, and providing for ſome few of their creatures neglect the Commonalty?</p>
+               <p n="3">3 Whether, our late experience of a ſingle Perſon cannot teſtifie, that though for a ſmall time, he ſeem<g ref="char:EOLhyphen"/>ed to favour honeſt men and things, yet when he thought himſelf ſeated, whether I ſay, he did not then ſlight both them and it, and become a favourer of the contrary? And whether our late Court did not ſhew more growth and increaſe of Rogues, Bauds and Whores, than all the time of our Govern<g ref="char:EOLhyphen"/>ment by a Common-Wealth.</p>
+               <p n="4">4 Whether a Confederacy has not been made a<g ref="char:EOLhyphen"/>broad with our ſecret enemies at home, that ſo a ſingle perſon might the better ſuppreſſe thoſe that ſee the wickedneſſe of his deſignes.</p>
+               <p n="5">5 Whether the ſingle perſon now pretending to Government, though the ſon of a ſubtile man, be a wiſe man? fit to diſpoſe of Common-Wealth trea<g ref="char:EOLhyphen"/>ſure.</p>
+               <p n="6">6 Whether the good people of this Nation be not very ſenſible of the expenſiveneſs extroardinary of a ſingle perſon more than of a Common-Wealth? and whether they do not finde a want of that vaſt treaſure expended upon Baubles, Toyes, and triffling gugaes? ſuch as we of late have had two much cauſe to ſpeak of. And whether the
+<pb n="7" facs="tcp:168536:4"/> cauſe of the peoples poverty, has not been by means of purchaſing lands to the Family of the late Pro<g ref="char:EOLhyphen"/>tector, as well as High-<hi>Spaniola</hi> buſineſs?</p>
+               <p n="7">7 Whether the late perſon ſet up, did not judge himſelf above law? and whether he did not Tyranize over mens perſons, reſtraining both them and their liberty? and whether the mercy he has pretended to in the execution thereof has not been very cruelty?</p>
+               <p n="8">8 Whether the late ſingle perſon to uphold his, and his Courtiers voluptuouſneſs, has not been ready to uphold what monopolies he found on foot, and likewiſe to deviſe new wayes to the ſame purpoſe. and whether the Citizen has not had experience of Court payment, and the Country man (though ſad) of the ſpoyling of his fences, deſtroying his crop, by them that belong to the Court, and that, they pleaſe to call their game? And if theſe be the beginnings what will the end be; and therefore for a cloſure I muſt ſay; what ſhall we ſay or do mare then the King Pro<g ref="char:EOLhyphen"/>tector has ſaid and done.</p>
+               <p>Now to conclude, I humbly preſent to conſidera<g ref="char:EOLhyphen"/>tion, whether upon a diligent ſerious weighing of the preſent action and paſt managment of State affairs, of ſome being Lawyers, &amp;c. (raiſed from a low eſtate to ſit in Council) and become great favourites at Court, it may not be found and clearly ſeen, that they have a deſigne for to bring in <hi>Charles Stuart?</hi> For if firſt they bring in a ſingle perſon and grant that, the next diſpute will be, whether the one family or the other has moſt right: and who have moſt intereſt <hi>Charls</hi> or <hi>Richard,</hi> I think asketh no long time to anſwer. Farther I would add, whether it be not more likely to attain to the practice of that golden rule, do as you would be done too, under the Government of a Com<g ref="char:EOLhyphen"/>mon Wealth, in which law-makers are liable to be judged by the law made, rather than under a Monar<g ref="char:EOLhyphen"/>chical Government; where or in which one if ſetled
+<pb n="8" facs="tcp:168536:5"/> is above law and accountable to none? who though never ſo wicked and unjuſt cannot be removed but by an extraordinary providence, as was the caſe of the late King and Protector.</p>
+               <p>Now whereas it is indeavored by ſome Court para<g ref="char:EOLhyphen"/>ſites to inſinuate into the people, that that which the Common Wealth party aimes at, is an involving of the Nations in blood and confuſion; (I would meekly tender. Whether their deportments and behaviour under the almoſt inſupportable burden of the Tyrany of late times, (in which their rights and liberties have lain bleeding) hath given any juſt cauſe of ſuch ſuſpition? Or rather, whether their patience has not manifeſted, their hope hath been, and ſtill is in God, from whom, by the means of a lawfull free Parliament they only expect deliverance;) be not a vindication ſufficient only not from what is now ſuggeſted againſt them,<note place="margin">Which Letter <hi>Whaley</hi> fooliſh<g ref="char:EOLhyphen"/>ly ſhewed the K<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng.</note> but alſo, from that old brand that the late Pro<g ref="char:EOLhyphen"/>tector in a letter to the late King, while at <hi>Hampton Court</hi> gave them <hi>(viz.)</hi> Levellers, and that their work would be to kill the King and levie all mens eſtates, by which m<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nes he effected his end <hi>(viz)</hi> an incen<g ref="char:EOLhyphen"/>ſing of the people and the other part of the Army a<g ref="char:EOLhyphen"/>gainſt them, which when he had done, he eaſily carri<g ref="char:EOLhyphen"/>ed on his wicked deſignes, which ſince has come to publick view, for a diliverance from which are the hearty prayers of all true Engliſh-men.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
